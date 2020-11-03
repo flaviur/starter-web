@@ -7,4 +7,4 @@ description of the purpose headline
 ## Deployment
 description of the deployment headline headline
 ## How to contribute
-
+adding copyright notes
