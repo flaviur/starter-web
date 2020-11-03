@@ -1,10 +1,10 @@
-##Starter Web Repo
+## Starter Web Repo
+description of the starter web repo
+## Introduction
 
-##Introduction
+## Purpose
 
-##Purpose
+## Deployment
 
-##Deployment
-
-##How to contribute
+## How to contribute
 
